@@ -450,7 +450,7 @@ body {
 /**! 6. Images **/
 img {
   max-width: 100%;
-  margin-bottom: 1.625em;
+  margin-bottom: 0.5em;
 }
 /*p+img, img:last-child{
 	margin-bottom: 0;
@@ -1318,7 +1318,7 @@ nav {
   line-height: 62px;
 }
 .nav-bar .logo {
-  max-height: 40%;
+  max-height: 49%;
   margin: 0;
 }
 .nav-bar .nav-module {
@@ -3043,7 +3043,7 @@ form[action*='list-manage.com'] .small-meta {
 section,
 footer {
   padding-top: 5.5em;
-  padding-bottom: 1.5em;
+  padding-bottom:0;
 }
 section.space--xxs,
 footer.space--xxs {
